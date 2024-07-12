@@ -13,3 +13,5 @@
 
 # To print something in go we use Println and also dont forget to import the 
 # fmt 
+
+# to run somthing on  GO use the command as go run andYour filename ex:- go run hello.go
