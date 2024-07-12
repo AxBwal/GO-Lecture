@@ -15,3 +15,5 @@
 # fmt 
 
 # to run somthing on  GO use the command as go run andYour filename ex:- go run hello.go
+
+# go also takes all type of values like int,boolean,float,string etc
