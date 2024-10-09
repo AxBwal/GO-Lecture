@@ -7,6 +7,8 @@ func main() {
 	//string -> space blank
 	//bool -> false   in starting
 
+	// if nothing declraed then this value will show 
+
 	//zeroed values get add in the int type array
 
 	// var nums[4] int
